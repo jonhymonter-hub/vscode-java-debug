@@ -1,3 +1,4 @@
+
 # Debugger for Java
 
 [![Gitter](https://badges.gitter.im/Microsoft/vscode-java-debug.svg)](https://gitter.im/Microsoft/vscode-java-debug)
